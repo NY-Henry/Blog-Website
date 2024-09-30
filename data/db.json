@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My new website",
+      "description": "Artificial intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans. AI systems analyze data, identify patterns, make decisions, and improve over time.",
+      "author": "Mario"
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components and a virtual DOM.",
+      "author": "Anna"
+    },
+    {
+      "title": "The Ultimate Guide to Building a Mobile Music Player with JavaScript",
+      "description": "Building a mobile music player from scratch may seem daunting, but with JavaScript, it's simpler than you think! In this guide, we’ll walk through the steps needed to create an offline-capable music player that works seamlessly on mobile devices.\n\nFirst, we’ll set up the basic HTML structure and design using simple CSS. Then, we’ll dive into the functionality using JavaScript to handle play, pause, and skip buttons. For offline support, we’ll integrate service workers to cache music files. By the end of this tutorial, you'll have a fully functioning mobile music player!",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Why Living in a Dorm is an Unforgettable Experience",
+      "description": "Living in a dorm is more than just a place to sleep—it’s a defining part of the college experience. It’s where you meet people from all walks of life, make lifelong friends, and truly learn what independence feels like.\n\nThe close-knit environment of dorm life brings unique opportunities. Whether it's late-night study sessions, spontaneous movie marathons, or cooking instant noodles together at 2 a.m., the memories made in the dorm are irreplaceable. Yes, there will be challenges—like sharing space with roommates or managing noisy neighbors—but those moments build resilience and camaraderie.\n\nDorm life teaches you how to live with others, adapt to new situations, and appreciate the diversity of college life. It’s an experience that shapes not just your time on campus, but who you become after college.",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
